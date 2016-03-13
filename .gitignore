@@ -1,12 +1,18 @@
 *.class
 
+<<<<<<< HEAD
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+=======
+>>>>>>> 1b95f4df227d4860a600e56f3da026358d277c35
 # Package Files #
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+>>>>>>> 1b95f4df227d4860a600e56f3da026358d277c35
