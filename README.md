@@ -1,17 +1,19 @@
 # GitStudy
 Git 学习
 
-#Hello World
+# Hello World
 
 
-#Java Study
+# Java Study
 
-- my name is tony lau
-
-
-#this is a test
-
-- yes, this is a test 
+-  my name is tony lau
 
 
-# A Team
+# this is a test
+
+-  yes, this is a test 
+
+# log
+
+today is march,17,2017
+hello
